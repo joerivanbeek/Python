@@ -15,6 +15,7 @@ else:
 number = random.randrange(start, end)
 
 #print (number)
+
 tries = 0
 
 while True:
@@ -34,5 +35,5 @@ while True:
     else:
         print("Guess Again, you were below the number")
 
-input('Press ENTER to exit')
+input('Press ENTER to exit') 
 
